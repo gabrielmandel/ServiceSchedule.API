@@ -1,0 +1,12 @@
+C:\Dev\ServiceSchedule\ServiceSchedule.Domain\bin\Debug\net6.0\ServiceSchedule.Domain.deps.json
+C:\Dev\ServiceSchedule\ServiceSchedule.Domain\bin\Debug\net6.0\ServiceSchedule.Domain.dll
+C:\Dev\ServiceSchedule\ServiceSchedule.Domain\bin\Debug\net6.0\ServiceSchedule.Domain.pdb
+C:\Dev\ServiceSchedule\ServiceSchedule.Domain\obj\Debug\net6.0\ServiceSchedule.Domain.csproj.AssemblyReference.cache
+C:\Dev\ServiceSchedule\ServiceSchedule.Domain\obj\Debug\net6.0\ServiceSchedule.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\ServiceSchedule\ServiceSchedule.Domain\obj\Debug\net6.0\ServiceSchedule.Domain.AssemblyInfoInputs.cache
+C:\Dev\ServiceSchedule\ServiceSchedule.Domain\obj\Debug\net6.0\ServiceSchedule.Domain.AssemblyInfo.cs
+C:\Dev\ServiceSchedule\ServiceSchedule.Domain\obj\Debug\net6.0\ServiceSchedule.Domain.csproj.CoreCompileInputs.cache
+C:\Dev\ServiceSchedule\ServiceSchedule.Domain\obj\Debug\net6.0\ServiceSchedule.Domain.dll
+C:\Dev\ServiceSchedule\ServiceSchedule.Domain\obj\Debug\net6.0\refint\ServiceSchedule.Domain.dll
+C:\Dev\ServiceSchedule\ServiceSchedule.Domain\obj\Debug\net6.0\ServiceSchedule.Domain.pdb
+C:\Dev\ServiceSchedule\ServiceSchedule.Domain\obj\Debug\net6.0\ref\ServiceSchedule.Domain.dll

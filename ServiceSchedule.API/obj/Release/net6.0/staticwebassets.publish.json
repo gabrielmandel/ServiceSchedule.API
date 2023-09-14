@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yaqox5SwoNTygu8Y0pJ66iH1re3Z62C0mvH7JGP1sQg=",
+  "Source": "ServiceSchedule",
+  "BasePath": "_content/ServiceSchedule",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

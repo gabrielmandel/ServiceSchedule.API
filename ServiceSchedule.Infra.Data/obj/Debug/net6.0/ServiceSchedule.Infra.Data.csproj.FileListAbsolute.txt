@@ -1,0 +1,17 @@
+C:\Dev\ServiceSchedule\ServiceSchedule.Infra.Data\bin\Debug\net6.0\ServiceSchedule.Infra.Data.deps.json
+C:\Dev\ServiceSchedule\ServiceSchedule.Infra.Data\bin\Debug\net6.0\ServiceSchedule.Infra.Data.runtimeconfig.json
+C:\Dev\ServiceSchedule\ServiceSchedule.Infra.Data\bin\Debug\net6.0\ServiceSchedule.Infra.Data.dll
+C:\Dev\ServiceSchedule\ServiceSchedule.Infra.Data\bin\Debug\net6.0\ServiceSchedule.Infra.Data.pdb
+C:\Dev\ServiceSchedule\ServiceSchedule.Infra.Data\bin\Debug\net6.0\ServiceSchedule.Domain.dll
+C:\Dev\ServiceSchedule\ServiceSchedule.Infra.Data\bin\Debug\net6.0\ServiceSchedule.Domain.pdb
+C:\Dev\ServiceSchedule\ServiceSchedule.Infra.Data\obj\Debug\net6.0\ServiceSchedule.Infra.Data.csproj.AssemblyReference.cache
+C:\Dev\ServiceSchedule\ServiceSchedule.Infra.Data\obj\Debug\net6.0\ServiceSchedule.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\ServiceSchedule\ServiceSchedule.Infra.Data\obj\Debug\net6.0\ServiceSchedule.Infra.Data.AssemblyInfoInputs.cache
+C:\Dev\ServiceSchedule\ServiceSchedule.Infra.Data\obj\Debug\net6.0\ServiceSchedule.Infra.Data.AssemblyInfo.cs
+C:\Dev\ServiceSchedule\ServiceSchedule.Infra.Data\obj\Debug\net6.0\ServiceSchedule.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Dev\ServiceSchedule\ServiceSchedule.Infra.Data\obj\Debug\net6.0\ServiceSchedule.Infra.Data.csproj.CopyComplete
+C:\Dev\ServiceSchedule\ServiceSchedule.Infra.Data\obj\Debug\net6.0\ServiceSchedule.Infra.Data.dll
+C:\Dev\ServiceSchedule\ServiceSchedule.Infra.Data\obj\Debug\net6.0\refint\ServiceSchedule.Infra.Data.dll
+C:\Dev\ServiceSchedule\ServiceSchedule.Infra.Data\obj\Debug\net6.0\ServiceSchedule.Infra.Data.pdb
+C:\Dev\ServiceSchedule\ServiceSchedule.Infra.Data\obj\Debug\net6.0\ServiceSchedule.Infra.Data.genruntimeconfig.cache
+C:\Dev\ServiceSchedule\ServiceSchedule.Infra.Data\obj\Debug\net6.0\ref\ServiceSchedule.Infra.Data.dll

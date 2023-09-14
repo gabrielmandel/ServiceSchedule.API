@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ygxs1xLGEeH4+Nz1FD1wbc33St3gKeawdgOhsgT889w=",
+  "Source": "ServiceSchedule.API",
+  "BasePath": "_content/ServiceSchedule.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,12 @@
+C:\Dev\ServiceSchedule\ServiceSchedule.Infra.Utils\bin\Debug\net6.0\ServiceSchedule.Infra.Utils.deps.json
+C:\Dev\ServiceSchedule\ServiceSchedule.Infra.Utils\bin\Debug\net6.0\ServiceSchedule.Infra.Utils.dll
+C:\Dev\ServiceSchedule\ServiceSchedule.Infra.Utils\bin\Debug\net6.0\ServiceSchedule.Infra.Utils.pdb
+C:\Dev\ServiceSchedule\ServiceSchedule.Infra.Utils\obj\Debug\net6.0\ServiceSchedule.Infra.Utils.csproj.AssemblyReference.cache
+C:\Dev\ServiceSchedule\ServiceSchedule.Infra.Utils\obj\Debug\net6.0\ServiceSchedule.Infra.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\ServiceSchedule\ServiceSchedule.Infra.Utils\obj\Debug\net6.0\ServiceSchedule.Infra.Utils.AssemblyInfoInputs.cache
+C:\Dev\ServiceSchedule\ServiceSchedule.Infra.Utils\obj\Debug\net6.0\ServiceSchedule.Infra.Utils.AssemblyInfo.cs
+C:\Dev\ServiceSchedule\ServiceSchedule.Infra.Utils\obj\Debug\net6.0\ServiceSchedule.Infra.Utils.csproj.CoreCompileInputs.cache
+C:\Dev\ServiceSchedule\ServiceSchedule.Infra.Utils\obj\Debug\net6.0\ServiceSchedule.Infra.Utils.dll
+C:\Dev\ServiceSchedule\ServiceSchedule.Infra.Utils\obj\Debug\net6.0\refint\ServiceSchedule.Infra.Utils.dll
+C:\Dev\ServiceSchedule\ServiceSchedule.Infra.Utils\obj\Debug\net6.0\ServiceSchedule.Infra.Utils.pdb
+C:\Dev\ServiceSchedule\ServiceSchedule.Infra.Utils\obj\Debug\net6.0\ref\ServiceSchedule.Infra.Utils.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6UhSDoAGW0l5Pk2Bkw5a/xcdPl6VisCHXkbZM6lyF28=",
+  "Source": "ServiceSchedule",
+  "BasePath": "_content/ServiceSchedule",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

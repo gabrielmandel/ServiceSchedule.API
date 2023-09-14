@@ -1,0 +1,11 @@
+C:\Dev\ServiceSchedule\ServiceSchedule\obj\Release\net6.0\PubTmp\Out\ServiceSchedule.exe
+C:\Dev\ServiceSchedule\ServiceSchedule\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Dev\ServiceSchedule\ServiceSchedule\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Dev\ServiceSchedule\ServiceSchedule\obj\Release\net6.0\PubTmp\Out\ServiceSchedule.dll
+C:\Dev\ServiceSchedule\ServiceSchedule\obj\Release\net6.0\PubTmp\Out\ServiceSchedule.deps.json
+C:\Dev\ServiceSchedule\ServiceSchedule\obj\Release\net6.0\PubTmp\Out\ServiceSchedule.runtimeconfig.json
+C:\Dev\ServiceSchedule\ServiceSchedule\obj\Release\net6.0\PubTmp\Out\ServiceSchedule.pdb
+C:\Dev\ServiceSchedule\ServiceSchedule\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Dev\ServiceSchedule\ServiceSchedule\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Dev\ServiceSchedule\ServiceSchedule\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Dev\ServiceSchedule\ServiceSchedule\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
